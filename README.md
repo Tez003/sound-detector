@@ -1,4 +1,6 @@
-# sound-detector
+# Sound Detector website
 
-Used howler js to listen and to send the music to the website.
-On making more improvements we can make huga improvements like a website that works without using mouse we can navigate through out the website
+This webiste has 2 basic pages.
+
+The first being a landing page which plays the sound which is made using the Howler library.
+The second in the page which detects the Sound made by us and responds to it.
